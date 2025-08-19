@@ -1,6 +1,16 @@
 # Authentication Flow Documentation
 
+
 This document explains the authentication flow of the project, focusing on JWT, password hashing, password comparison, cookie generation, cookie extraction, login, and the importance of HTTP-only cookies.
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/c6124ea8-8ebb-406d-9a43-134cae75b4bd" 
+    width="300" 
+    style="border-radius:10px; margin-top:20px; margin-bottom:20px;" 
+  />
+</p>
+
 
 ---
 
